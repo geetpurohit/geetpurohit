@@ -7,10 +7,7 @@
 
 If you would like to see my resume, and my skillsets here is my resume - 
 
-<details>
-<summary>Display Resume</summary>
 ![Geet_Purohit_Resume](https://user-images.githubusercontent.com/68968629/169851986-3f465186-c972-4fcb-9bd9-6fdff634cc2e.jpg)
-</details>
 
 
 
