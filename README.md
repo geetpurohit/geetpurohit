@@ -9,7 +9,7 @@ If you would like to see my resume, and my skillsets here is my resume -
 <details>
 <summary>Display Resume</summary>
 <br>
-![Geet_Purohit_Resume](https://user-images.githubusercontent.com/68968629/169851048-99ca5291-df63-41b7-9a82-460fdb5f4e58.jpg)
+[Geet_Purohit_Resume](https://user-images.githubusercontent.com/68968629/169851048-99ca5291-df63-41b7-9a82-460fdb5f4e58.jpg)
 </details>
 
 
