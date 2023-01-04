@@ -6,9 +6,5 @@
 - 🎯 My short-term goal is to get my feet wet with NLP and Deep Learning
 - 📫 How to reach me ...  geetp40@gmail.com
 If you would like to see my resume, and my skillsets here is my resume - 
-
-![Geet_Purohit_Resume (1).pdf](https://github.com/geetpurohit/geetpurohit/files/10340727/Geet_Purohit_Resume.1.pdf)
-
-
-
+![Geet_Purohit_Resume (1)](https://user-images.githubusercontent.com/68968629/210465509-f9ea93b9-dbc2-4de6-9f2a-d508602e1fa9.jpg)
 
