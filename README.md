@@ -6,4 +6,4 @@
 - 📫 How to reach me ...  geetp40@gmail.com
 If you would like to see my resume, and my skillsets here is my resume - 
 
-![Geet_Purohit_Resume (2)-1](https://user-images.githubusercontent.com/68968629/210465747-00786e6d-c3af-4b42-a377-f54a8a55c80d.jpg)
+[Geet_Purohit_Resume_Fall_2023.pdf](https://github.com/geetpurohit/geetpurohit/files/12602180/Geet_Purohit_Resume_Fall_2023.pdf)
