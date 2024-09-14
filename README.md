@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi there , I am Geet Purohit </h1>
 
-Astrophysicist turned Data Scientist: I used to study black holes, now I just find them in datasets—both are equally mysterious and require a lot of coffee!  In my free time I watch an unhealthy amount of anime and game. 
+Astrophysicist turned Data Scientist: I used to study black holes, now I just find them in datasets—both are equally mysterious and require a lot of coffee!  In my free time I watch an unhealthy amount of anime and lose LP in League of Legends. 
 
 <h2 align="center">  🌟 Professional Highlights 🌟 </h2>
 
