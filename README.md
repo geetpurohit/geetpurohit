@@ -1,15 +1,18 @@
 <h1 align="center">👋 Hi there , I am Geet Purohit </h1>
 
-Astrophysicist turned Data Scientist: I used to study black holes, now I just find them in datasets—both are equally mysterious and require a lot of coffee!  In my free time I watch an unhealthy amount of anime and lose LP in League of Legends. 
+Astrophysicist turned Data Scientist: I used to study black holes, now I just find them in datasets. Both are equally mysterious and require a lot of coffee!  In my free time I watch an concerning amount of anime and lose LP in League of Legends. 
 
 <h2 align="center">  🌟 Professional Highlights 🌟 </h2>
 
-- **Data Scientist** - Verizon (2022 - Present)
-- **Data Engineer** - Human Genetics Institute of New Jersey (2021 - 2022)
+- **Data Scientist III** - Verizon (2024 - Present)
+- **Data Scientist I** - Verizon (2023 - 2024)
+- **Data Science Intern** - Verizon (2022 - 2022)
+- **AI/ML Intern** - Human Genetics Institute of New Jersey (2021 - 2022)
 - **Predictive Analytics Intern** - RankSense SEO (2020-2021)
 
 <h2 align="center"> 🎓 Education 🎓</h2>
 
+- **M.S. Computational Analytics (AI/ML Track)**, Georgia Tech
 - **B.S. Computer Science**, Rutgers University 
 - **B.S. Astrophysics**, Rutgers University
 - **Minor: Mathematics**, Rutgers University 
